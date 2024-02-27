@@ -77,6 +77,7 @@ const GermanyGDPperCapita = [
   43189, 43320, 43413, 43922, 44293, 44689, 45619.785, 46177.617,
 ];
 
+
 export default function StackedAreas() {
   return (
     <div>
